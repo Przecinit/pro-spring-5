@@ -4,9 +4,9 @@ ext {
 	bootVersion = '2.0.6.RELEASE'
 	springDataVersion = '2.0.11.RELEASE'
 	springAmqpVersion = '2.1.0.RELEASE'
-	springSecurityVersion = '5.0.2.BUILD-SNAPSHOT'
+	springSecurityVersion = '5.0.2.RELEASE'
 	springBatchVersion = '4.0.0.RELEASE'
-	springIntegrationVersion = '5.0.2.BUILD-SNAPSHOT'
+	springIntegrationVersion = '5.0.2.RELEASE'
 
 	//logging libs
 	slf4jVersion = '1.7.25'
